@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Capacity for Teacher to teach through exams </title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: beige;
+  background-image: url(https://w.wallhaven.cc/full/7p/wallhaven-7p3mm3.jpg);
+    
+    }
+    .card {
+      margin: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      background-color: rgba(255,255,255,0.5);
+    }
+    .card-title {
+        .protest-revolution-regular {
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    .card-text {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    .card-link {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .card-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h2 class="card-title">Capacity for Teacher to teach through exams</h2>
+      <h3 class="card-title">Abstract for studing</h3>
+      <ul class="card-text">
+        <li>denis rechie developed c language</li>
+        <li>How to Think Like a Coder by Jim Christian</li>
+        <li>No Fear Coding by Heidi Williams</li>
+        <li>how the ai changes the world</li>
+        <li>Computational Thinking and Coding for Every Student by Jane Krauss and Kiki Prottsman</li>
+      </ul>
+      <h3 class="card-title">Play using code</h3>
+      <ul class="card-text">
+        <li>Mitigate the fear of the unknown by trying out a tutorial to help you experience the importance of play in developing CS skills:</li>
+        <li>Try participating in hackathons and find new things to learn.</li>
+        <li>Sign up for a free account and explore a course from Code.org's catalog.</li>
+      </ul>
+      <h3 class="card-title">Find out Homies</h3>
+      <ul class="card-text">
+        <li>Communication  is the key for programming . Find a supportive group of colleagues to overcome any challenges:</li>
+        <li>Find a friend who is willing to give CS a try.</li>
+        <li>find out people online using platforms like twitter or linkdIn.</li>
+      </ul>
+      <h3 class="card-title">Additional Resources</h3>
+      <ul class="card-text">
+        <li><a href="https://www.edweek.org/ew/articles/2016/03/23/gallup-student-poll-finds-engagement-in-school.html" class="card-link">Engaged today—ready for tomorrow. U.S. Ov
